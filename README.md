@@ -13,7 +13,7 @@ Spring Batch 是一个批处理应用框架,不是调度框架,但需要和调�
 - 主从混用
 
 # 项目架构
-![1553737323272](C:\Users\14162\AppData\Roaming\Typora\typora-user-images\1553737323272.png)
+![spring-batch](C:\Users\14162\Desktop\spring-batch.jpg)
 
 # 项目描述
 
